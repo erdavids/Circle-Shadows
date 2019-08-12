@@ -12,6 +12,7 @@ def setup():
     # Take advantage of resolution
     pixelDensity(2)
 
+
     
     for c in range(2000):
         center_x = random(w/10, w - w/10)
@@ -25,7 +26,7 @@ def setup():
         
         # Draw Circle
         stroke(30, 30, 30)
-        fill(random(200, 255), random(50, 255), random(50, 255), random(150, 255))
+        fill(random(200, 255), random(50, 255), random(200, 255), random(150, 255))
         circle(center_x, center_y, cs)
         
     
