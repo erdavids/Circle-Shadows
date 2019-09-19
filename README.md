@@ -1,5 +1,18 @@
-# Circle Shadows
+# Circle Shadows / [Tutorial](https://www.youtube.com/watch?v=Kg6YIDZ-JpY)
 
-This is a really simple project that was created for the tutorial found here: https://www.youtube.com/watch?v=Kg6YIDZ-JpY
+Each circle casts a shadow by drawing a semi-transparent darker circle at an offset. Playing around with the color and opacity of each more visible circle gave some interesting results.
 
-![](https://github.com/erdavids/Circle-Shadows/blob/master/Examples/redbias-6897.png)
+If you want to run this project yourself, make sure to download [Processing](processing.org). Feel free to reach out to thebuffed@gmail.com if you have any questions.
+
+Other links:
+- [More Generative Art](https://github.com/erdavids/Generative-Art)
+- [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
+- [Twitter](https://twitter.com/TheBuffED)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
+
+# Examples
+
+<p align="center"><img src="https://github.com/erdavids/Circle-Shadows/blob/master/Examples/redbias-6897.png"></p>
+
+<p align="center"><img src="https://github.com/erdavids/Circle-Shadows/blob/master/Examples/redbias-1884.png"></p>
