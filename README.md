@@ -2,14 +2,11 @@
 
 Each circle casts a shadow by drawing a semi-transparent darker circle at an offset. Playing around with the color and opacity of each more visible circle gave some interesting results.
 
-If you want to run this project yourself, make sure to download [Processing](processing.org). Feel free to reach out to thebuffed@gmail.com if you have any questions.
+If you want to run this project yourself, make sure to download [Processing](https://www.processing.org). Feel free to reach out to thebuffed@gmail.com if you have any questions.
 
 Other links:
 - [More Generative Art](https://github.com/erdavids/Generative-Art)
 - [YouTube Channel](https://www.youtube.com/channel/UCUrmX3SvpPerq-KAfGBrgGQ)
-- [Twitter](https://twitter.com/TheBuffED)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6YGXL)
 
 # Examples
 
